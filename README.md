@@ -2,16 +2,15 @@
 
 - 🔭 I’m currently working on... Orange apps and beyooonddddd...
 - 🌱 I’m currently learning... always, everyday learning...
-- 🤔 I’m looking for help with... see bellow 
-                                       |
-                                       v
+- 🤔 I’m looking for help with... see bellow
 - 💬 Ask me about... js stuffs, scala stuffs, sparks stuffs, orientdb stuffs...
-- 📫 How to reach me: 
+
+### 📫 Where to reach me
 
 [<img align="left" alt="naoyteruh | github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
 [<img align="left" alt="naoyteruh | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="naoyteruh | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />][gmail]
-
+  
 [github]: https://github.com/naoyteruh/naoyteruh/issues
 [linkedin]: https://www.linkedin.com/in/yoan-huret-55b7b6a2/
 [gmail]: mailto:naoy.teruh@gmail.com
