@@ -5,6 +5,8 @@
 - 🤔 I’m looking for help with... see bellow
 - 💬 Ask me about... js stuffs, scala stuffs, sparks stuffs, orientdb stuffs...
 
+<br/>
+
 ### 📫 Where to reach me
 
 [<img align="left" alt="naoyteruh | github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
@@ -14,9 +16,6 @@
 [github]: https://github.com/naoyteruh/naoyteruh/issues
 [linkedin]: https://www.linkedin.com/in/yoan-huret-55b7b6a2/
 [gmail]: mailto:naoy.teruh@gmail.com
-
-<br/>
-<br/>
 
 <!--
 [<img align="left" alt="naoyteruh | me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -34,6 +33,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br/>
+<br/>
 
 ### Random quotes 🗣
 
