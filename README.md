@@ -36,7 +36,7 @@
 <p align="center">
   <a href="mailto:naoy.teruh@gmail.com"><img src="https://img.icons8.com/stickers/100/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/yoan-huret-55b7b6a2/"><img src="https://img.icons8.com/stickers/100/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="-"><img src="https://img.icons8.com/stickers/100/000000/twitter.png" alt="twitter"/></a>
+  <a href="https://twitter.com/huretyoan"><img src="https://img.icons8.com/stickers/100/000000/twitter.png" alt="twitter"/></a>
   <a href="https://stackoverflow.com/users/2727108/naouille"><img src="https://img.icons8.com/stickers/100/000000/stackoverflow.png" alt="stackoverflow"/></a>
 </p>
 <br/>
